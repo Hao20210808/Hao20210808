@@ -1,8 +1,10 @@
 
-My name is Hao-Zhong, Yang. I’m
+Hi, my name is Hao-Zhong, Yang. I’m
 a third year student in the Computer
 Science Internet Engineering department
-of Tamkang University. The opportunity to
+of Tamkang University. 
+
+The opportunity to
 become interested in information was
 when I took elective courses in high
 school. I participated in laser cutting,

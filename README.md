@@ -9,7 +9,7 @@ school. I participated in laser cutting,
 Arduino and radio operations. It was also
 the first time that I obtained a professional
 license at NCC (National Communications
-Commission) with my friend. [Figure.1] It
+Commission) with my friend. It
 was just that I completed the steps in
 sequence according to the instructions of
 the instructor at that time, which was my
